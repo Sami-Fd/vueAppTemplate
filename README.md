@@ -1,4 +1,4 @@
-# idebee
+# vue App Starting Template
 
 ## Project setup
 ```
