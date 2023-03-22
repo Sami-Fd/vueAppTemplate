@@ -2,9 +2,6 @@
 node_modules
 /dist
 /.vscode
-.browserslistrc
-.eslintrc.js
-cypress.json
 /tests
 
 /tests/e2e/videos/
